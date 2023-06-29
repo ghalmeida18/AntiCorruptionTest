@@ -3,3 +3,8 @@
 ################################################################################
 
 /AntiCorruptionApplication/AntiCorruptionApplication/appsettings.json
+/.vs/slnx.sqlite
+/AntiCorruptionApplication/AntiCorruption.Business/obj/project.nuget.cache
+/AntiCorruptionApplication/AntiCorruption.Data/obj/project.assets.json
+/AntiCorruptionApplication/AntiCorruption.Data/obj/AntiCorruption.Data.csproj.nuget.dgspec.json
+/AntiCorruptionApplication/AntiCorruption.Data/obj/project.nuget.cache
