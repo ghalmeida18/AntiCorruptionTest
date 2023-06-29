@@ -5074,11 +5074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj",
       "projectName": "AntiCorruption.Business",
-      "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj",
+      "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste\\AntiCorruptionApplication\\AntiCorruption.Business\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5095,11 +5095,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj": {
-              "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj"
+            "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj": {
+              "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj"
             },
-            "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj": {
-              "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj"
+            "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj": {
+              "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj"
             }
           }
         }
