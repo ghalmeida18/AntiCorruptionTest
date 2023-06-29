@@ -1,0 +1,12 @@
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\bin\Debug\net6.0\AntiCorruption.Model.deps.json
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\bin\Debug\net6.0\AntiCorruption.Model.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\bin\Debug\net6.0\AntiCorruption.Model.pdb
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\AntiCorruption.Model.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\AntiCorruption.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\AntiCorruption.Model.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\AntiCorruption.Model.AssemblyInfo.cs
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\AntiCorruption.Model.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\AntiCorruption.Model.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\refint\AntiCorruption.Model.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\AntiCorruption.Model.pdb
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Model\obj\Debug\net6.0\ref\AntiCorruption.Model.dll

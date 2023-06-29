@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\bin\Debug\net6.0\AntiCorruption.Data.deps.json
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\bin\Debug\net6.0\AntiCorruption.Data.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\bin\Debug\net6.0\AntiCorruption.Data.pdb
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.AssemblyInfo.cs
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\refint\AntiCorruption.Data.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.pdb
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\ref\AntiCorruption.Data.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\bin\Debug\net6.0\AntiCorruption.Model.dll
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\bin\Debug\net6.0\AntiCorruption.Model.pdb
+C:\Users\gusta\Desktop\Gustavo\MPJ\Teste\AntiCorruptionApplication\AntiCorruption.Data\obj\Debug\net6.0\AntiCorruption.Data.csproj.CopyComplete

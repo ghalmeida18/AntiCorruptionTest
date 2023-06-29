@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ke1x321p0AL7YBjM7r6phfYE4xgJw1iymyD92Pl/StEzfl3zPqNFbUuxEaUExzQaAEyEShtNex94ID2MsVx+WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
