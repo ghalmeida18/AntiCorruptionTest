@@ -26,6 +26,10 @@ namespace AntiCorruption.Test.Builder
         {
             _repositoryModel.AutoInit = autoInit;
         }
+        public void WithPrivate(bool privateValue)
+        {
+            _repositoryModel.Private = privateValue;
+        }
         public void WithDescription(string? description)
         {
             _repositoryModel.Description = description;
