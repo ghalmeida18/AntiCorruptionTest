@@ -4,6 +4,149 @@
     "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Test\\AntiCorruption.Test.csproj": {}
   },
   "projects": {
+    "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj",
+        "projectName": "AntiCorruption.Business",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj"
+              },
+              "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj",
+        "projectName": "AntiCorruption.Data",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Octokit.Webhooks": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -93,6 +236,12 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Business\\AntiCorruption.Business.csproj"
+              },
+              "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Data\\AntiCorruption.Data.csproj"
+              },
               "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj": {
                 "projectPath": "C:\\Users\\gusta\\Desktop\\Gustavo\\MPJ\\Teste-Git\\AntiCorruptionApplication\\AntiCorruption.Model\\AntiCorruption.Model.csproj"
               }
@@ -120,6 +269,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
             },
             "coverlet.collector": {
               "target": "Package",
