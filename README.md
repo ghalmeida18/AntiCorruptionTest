@@ -1,7 +1,7 @@
 # AntiCorruption - Test
 
 ******************************
-Necessário informar:
+Para executar, é necessário informar (appsettings.json):
   - Usuario Git Hub 
   - Bearer de acesso leitura/escrita
 ******************************
