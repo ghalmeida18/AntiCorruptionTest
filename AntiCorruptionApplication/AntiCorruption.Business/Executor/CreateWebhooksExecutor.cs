@@ -28,12 +28,7 @@ namespace AntiCorruption.Business.Executor
             if(response == null || !response.IsSuccessStatusCode)
                 throw new CreateHookException($"It was not possible to create a new WebHook for repository {repositoryId}. Please, check the values informed.");
 
-            RepositoryHookModel? hookCreated = new();
-
-            if (response != null)
-                hookCreated = JsonConvert.DeserializeObject<RepositoryHookModel>(await response.Content.ReadAsStringAsync());
-
-            return hookCreated;
+            return JsonConvert.DeserializeObject<RepositoryHookModel>(await response.Content.ReadAsStringAsync());
         }
     }
 }
