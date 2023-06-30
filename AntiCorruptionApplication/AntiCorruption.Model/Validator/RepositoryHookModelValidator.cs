@@ -10,6 +10,5 @@ namespace AntiCorruption.Model.Validator
             RuleFor(x => x.Events).NotNull().NotEmpty();
             RuleFor(x => x.Config).NotNull().NotEmpty();
         }
-
     }
 }
