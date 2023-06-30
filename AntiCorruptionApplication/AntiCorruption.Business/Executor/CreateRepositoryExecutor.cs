@@ -1,7 +1,6 @@
 ﻿using AntiCorruption.Business.Interface;
 using AntiCorruption.Data.Interface;
 using AntiCorruption.Model;
-using Octokit;
 
 namespace AntiCorruption.Business.Executor
 {

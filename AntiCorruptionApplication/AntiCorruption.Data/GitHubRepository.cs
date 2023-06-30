@@ -12,7 +12,6 @@ namespace AntiCorruption.Data
     public class GitHubRepository : IGitHubRepository
     {
         private readonly GitHubClient _gitHubClient;
-        private readonly IConfiguration _configuration;
         private static HttpClient _httpClient;
         private readonly string? _userName;
 
@@ -20,7 +19,6 @@ namespace AntiCorruption.Data
         {
             _userName = configuration.GetValue<string>("AppConfig:UserName");
 
-            _configuration = configuration;
             _httpClient = new();
 
             _gitHubClient = new GitHubClient(new Octokit.ProductHeaderValue("AntiCorruptionApplication"))
@@ -85,9 +83,7 @@ namespace AntiCorruption.Data
             request.Headers.TryAddWithoutValidation("User-Agent", "http://developer.github.com/v3/#user-agent-required");
 
 
-            var res =  _httpClient.Send(request);
-
-            return res;
+            return _httpClient.Send(request);
 
         }
 
@@ -117,9 +113,7 @@ namespace AntiCorruption.Data
             request.Headers.TryAddWithoutValidation("User-Agent", "http://developer.github.com/v3/#user-agent-required");
 
 
-            var res = _httpClient.Send(request);
-
-            return res;
+            return _httpClient.Send(request);
         }
     }
 }
