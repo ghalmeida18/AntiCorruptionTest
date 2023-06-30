@@ -95,20 +95,7 @@ namespace AntiCorruption.Test
         }
 
         #region Test Builders
-        private static RepositoryModel CreateDefaultRepositoryModel(string name)
-        {
-            var builder = new RepositoryModelBuilder();
-            builder.WithId(10);
-            builder.WithAutoInit(true);
-            builder.WithPrivate(true);
-            builder.WithDescription("desc");
-            builder.WithLicenseTemplate("temp");
-            builder.WithName(name);
-
-            return builder.Build();
-        }
-
-
+       
         private static RepositoryHookModel CreateDefaultHookModel(string name)
         {
             var builder = new RepositoryHookModelBuilder();
